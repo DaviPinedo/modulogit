@@ -4,5 +4,3 @@ Alteração no readme para descrever melhor o sistema
 Mais alteracao de novo
 
 Alteração para o remoto
-
-Alteração para o git revert
